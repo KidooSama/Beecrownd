@@ -6,7 +6,7 @@ O objetivo deste repositório é praticar lógica de programação, algoritmos, 
 
 ## Tecnologias
 
-- PHP 8.1
+- PHP 8.1(Python e C++ nos casos antigos)
 - Git
 - VSCode
 
@@ -18,7 +18,7 @@ Os exercícios são organizados por arquivos `.php`, contendo a solução de cad
 
 Os desafios utilizados podem ser encontrados em:
 
-https://www.beecrowd.com.br/
+https://judge.beecrowd.com/pt/categories
 
 ## Objetivo
 
